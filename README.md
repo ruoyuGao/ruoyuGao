@@ -3,7 +3,6 @@
 </div>
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ruoyuGao&theme=black-red)](https://github.com/anuraghazra/github-readme-stats) 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ruoyuGao&theme=dark&disable_animations=true)](https://git.io/streak-stats)
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
