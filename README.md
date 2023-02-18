@@ -5,5 +5,9 @@
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=ruoyuGao&theme=black-red" />  
 </div>
 
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruoyuGao&layout=compact&theme=black-red"/>
+</div>
+
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
