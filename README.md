@@ -10,9 +10,9 @@
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%20hr%2022%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%20hrs%2021%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-169-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-170-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-225%20Thousand%20lines%20of%20code-blue)
 
@@ -57,14 +57,15 @@ Sunday          19 commits       ██░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-reStructuredText         0 secs              █████████████░░░░░░░░░░░░   52.72 % 
-Python                   0 secs              ███████████░░░░░░░░░░░░░░   47.28 % 
+Markdown                 52 mins             ████████████████████████░   96.64 % 
+reStructuredText         0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.77 % 
+Python                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.59 % 
 
 🔥 Editors: 
-VS Code                  1 min               █████████████████████████   100.00 % 
+VS Code                  54 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      1 min               █████████████████████████   100.00 % 
+Mac                      54 mins             █████████████████████████   100.00 % 
 
 ```
 
@@ -81,5 +82,5 @@ CSS                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 19/02/2023 01:43:48 UTC
+ Last Updated on 20/02/2023 01:43:18 UTC
 <!--END_SECTION:waka-->
