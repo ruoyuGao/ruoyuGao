@@ -10,7 +10,7 @@
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-66%20hrs%2020%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-70%20hrs%2021%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -18,7 +18,7 @@
 
 > 📦 55.1 kB Used in GitHub's Storage 
  > 
-> 🏆 90 Contributions in the Year 2023
+> 🏆 91 Contributions in the Year 2023
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -53,15 +53,15 @@ Sunday                   41 commits          ███░░░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-Python                   11 hrs 19 mins      ████████████████████████░   97.31 % 
-reStructuredText         18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.69 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+Python                   13 hrs 8 mins       ████████████████████████░   97.67 % 
+reStructuredText         18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.33 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔥 Editors: 
-VS Code                  11 hrs 38 mins      █████████████████████████   100.00 % 
+VS Code                  13 hrs 26 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      11 hrs 38 mins      █████████████████████████   100.00 % 
+Mac                      13 hrs 26 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -77,5 +77,5 @@ Cuda                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 30/03/2023 01:27:50 UTC
+ Last Updated on 31/03/2023 01:26:41 UTC
 <!--END_SECTION:waka-->
