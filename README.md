@@ -51,15 +51,13 @@ Sunday                   67 commits          ███░░░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-Python                   1 hr 22 mins        ██████████████████░░░░░░░   72.17 % 
-VB.NET                   31 mins             ███████░░░░░░░░░░░░░░░░░░   27.37 % 
-Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  1 hr 54 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      1 hr 54 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -75,5 +73,5 @@ HTML                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 19/08/2023 01:07:24 UTC
+ Last Updated on 20/08/2023 01:12:34 UTC
 <!--END_SECTION:waka-->
