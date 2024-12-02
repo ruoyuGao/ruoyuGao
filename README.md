@@ -10,6 +10,8 @@
 </div>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-182%20hrs%206%20mins-blue)
+
 **🐱 My GitHub Data** 
 
 > 📦 55.3 kB Used in GitHub's Storage 
@@ -71,5 +73,5 @@ HTML                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 01/12/2024 02:04:37 UTC
+ Last Updated on 02/12/2024 01:52:56 UTC
 <!--END_SECTION:waka-->
