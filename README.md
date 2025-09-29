@@ -10,6 +10,8 @@
 </div>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-182%20hrs%206%20mins-blue)
+
 **🐱 My GitHub Data** 
 
 > 📦 55.4 kB Used in GitHub's Storage 
@@ -22,6 +24,42 @@
  > 
 > 🔑 3 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                37 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.76 % 
+🌆 Daytime                85 commits          ██████░░░░░░░░░░░░░░░░░░░   24.71 % 
+🌃 Evening                137 commits         ██████████░░░░░░░░░░░░░░░   39.83 % 
+🌙 Night                  85 commits          ██████░░░░░░░░░░░░░░░░░░░   24.71 % 
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday                   35 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.17 % 
+Tuesday                  113 commits         ████████░░░░░░░░░░░░░░░░░   32.85 % 
+Wednesday                41 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.92 % 
+Thursday                 20 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.81 % 
+Friday                   70 commits          █████░░░░░░░░░░░░░░░░░░░░   20.35 % 
+Saturday                 28 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.14 % 
+Sunday                   37 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.76 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: America/New_York
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in Elixir** 
 
 ```text
@@ -35,5 +73,5 @@ HTML                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 28/09/2025 01:57:36 UTC
+ Last Updated on 29/09/2025 01:51:56 UTC
 <!--END_SECTION:waka-->
