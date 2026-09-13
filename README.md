@@ -10,7 +10,9 @@
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-180%20hrs%2040%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-181%20hrs%2045%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-4%20hrs%203%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -51,19 +53,40 @@ Sunday                   37 commits          ███░░░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Other                    3 hrs 13 mins       ███████████████████░░░░░░   74.90 % 
+JSON                     24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.66 % 
+Bash                     17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.93 % 
+Python                   14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.45 % 
+Markdown                 7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.02 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Claude Code              3 hrs 28 mins       ████████████████████░░░░░   80.49 % 
+VS Code                  50 mins             █████░░░░░░░░░░░░░░░░░░░░   19.51 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      4 hrs 18 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 4 hrs 3 mins (93.98%)
+
+✍️ 0 lines written by AI, 50 lines written by hand (0.0% AI-written)
+
+🔤 1,332,574 Input Tokens, 308,797 Output Tokens
+
+💵 $59.70 Estimated AI Cost This Week
+
+🧠 1 AI Sessions, 52 AI Prompts
+
+Opus                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
+📄 Detailed Prompter — average 674 characters per prompt
+🔁 Iterative Prompter — average 52 prompts per session
+🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Elixir** 
@@ -79,5 +102,5 @@ HTML                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 12/09/2026 04:04:06 UTC
+ Last Updated on 13/09/2026 04:15:02 UTC
 <!--END_SECTION:waka-->
