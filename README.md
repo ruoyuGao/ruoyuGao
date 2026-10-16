@@ -3,9 +3,9 @@
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-201%20hrs%2052%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-202%20hrs%2035%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-26%20hrs%2058%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-27%20hrs%2041%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -46,36 +46,35 @@ Sunday                   47 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-Markdown                 6 hrs 5 mins        ██████████████████████░░░   87.16 % 
-Python                   33 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.95 % 
-Other                    20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.89 % 
+Markdown                 5 hrs 44 mins       ███████████████████████░░   91.87 % 
+Python                   30 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.13 % 
 
 🔥 Editors: 
-Claude Code              6 hrs 43 mins       ████████████████████████░   96.20 % 
-VS Code                  15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.80 % 
+Claude Code              6 hrs 1 min         ████████████████████████░   96.48 % 
+VS Code                  13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.52 % 
 
 💻 Operating System: 
-Mac                      6 hrs 59 mins       █████████████████████████   100.00 % 
+Mac                      6 hrs 14 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 6 hrs 44 mins (96.37%)
+⏱ AI Coding Time: 6 hrs 2 mins (96.67%)
 
-✍️ 2,260 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 5,245 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 4,174,665 Input Tokens, 784,814 Output Tokens
+🔤 3,472,080 Input Tokens, 689,223 Output Tokens
 
-💵 $63.42 Estimated AI Cost This Week
+💵 $57.78 Estimated AI Cost This Week
 
-🧠 12 AI Sessions, 94 AI Prompts
+🧠 10 AI Sessions, 77 AI Prompts
 
-Opus                     2,260 lines         █████████████████████████   100.00 % 
+Opus                     5,245 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 448 characters per prompt
+📄 Detailed Prompter — average 552 characters per prompt
 🔁 Iterative Prompter — average 8 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
@@ -93,5 +92,5 @@ HTML                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 15/10/2026 04:05:25 UTC
+ Last Updated on 16/10/2026 04:01:31 UTC
 <!--END_SECTION:waka-->
