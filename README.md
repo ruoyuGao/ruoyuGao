@@ -46,35 +46,35 @@ Sunday                   47 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-Markdown                 5 hrs 44 mins       ███████████████████████░░   91.87 % 
-Python                   30 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.13 % 
+Markdown                 4 hrs 26 mins       ██████████████████████░░░   89.76 % 
+Python                   30 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.24 % 
 
 🔥 Editors: 
-Claude Code              6 hrs 1 min         ████████████████████████░   96.48 % 
-VS Code                  13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.52 % 
+Claude Code              4 hrs 44 mins       ████████████████████████░   95.56 % 
+VS Code                  13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.44 % 
 
 💻 Operating System: 
-Mac                      6 hrs 14 mins       █████████████████████████   100.00 % 
+Mac                      4 hrs 57 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 6 hrs 2 mins (96.67%)
+⏱ AI Coding Time: 4 hrs 44 mins (95.81%)
 
-✍️ 5,245 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 4,929 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 3,472,080 Input Tokens, 689,223 Output Tokens
+🔤 2,856,817 Input Tokens, 556,387 Output Tokens
 
-💵 $57.78 Estimated AI Cost This Week
+💵 $47.95 Estimated AI Cost This Week
 
-🧠 10 AI Sessions, 77 AI Prompts
+🧠 7 AI Sessions, 59 AI Prompts
 
-Opus                     5,245 lines         █████████████████████████   100.00 % 
+Opus                     4,929 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📄 Detailed Prompter — average 552 characters per prompt
+📝 Concise Prompter — average 316 characters per prompt
 🔁 Iterative Prompter — average 8 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
@@ -92,5 +92,5 @@ HTML                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 16/10/2026 04:01:31 UTC
+ Last Updated on 17/10/2026 03:52:31 UTC
 <!--END_SECTION:waka-->
