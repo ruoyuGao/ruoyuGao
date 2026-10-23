@@ -3,9 +3,9 @@
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-209%20hrs%2055%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-211%20hrs%2046%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-35%20hrs%208%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-37%20hrs%2016%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -46,41 +46,41 @@ Sunday                   154 commits         ████░░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-Markdown                 6 hrs 27 mins       ███████████████████░░░░░░   75.74 % 
-Python                   1 hr 39 mins        █████░░░░░░░░░░░░░░░░░░░░   19.42 % 
-Other                    14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.86 % 
-Bash                     10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.98 % 
+Markdown                 5 hrs 38 mins       ███████████████░░░░░░░░░░   58.23 % 
+Python                   3 hrs 21 mins       █████████░░░░░░░░░░░░░░░░   34.65 % 
+Other                    31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.37 % 
+Bash                     10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.75 % 
 
 🔥 Editors: 
-Antigravity Desktop      4 hrs 4 mins        ████████████░░░░░░░░░░░░░   47.70 % 
-Claude Code              4 hrs 3 mins        ████████████░░░░░░░░░░░░░   47.59 % 
-VS Code                  24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.72 % 
+Claude Code              5 hrs 26 mins       ██████████████░░░░░░░░░░░   56.10 % 
+Antigravity Desktop      4 hrs 4 mins        ███████████░░░░░░░░░░░░░░   42.09 % 
+VS Code                  10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.81 % 
 
 💻 Operating System: 
-Mac                      8 hrs 31 mins       █████████████████████████   100.00 % 
+Mac                      9 hrs 41 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 8 hrs 11 mins (96.01%)
+⏱ AI Coding Time: 9 hrs 34 mins (98.72%)
 
-✍️ 5,935 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 3,689 lines written by AI, 54 lines written by hand (98.56% AI-written)
 
-🔤 8,666,232 Input Tokens, 1,100,252 Output Tokens
+🔤 10,424,674 Input Tokens, 1,210,842 Output Tokens
 
-💵 $104.79 Estimated AI Cost This Week
+💵 $117.78 Estimated AI Cost This Week
 
-🧠 16 AI Sessions, 101 AI Prompts
+🧠 23 AI Sessions, 125 AI Prompts
 
-Opus                     5,668 lines         ████████████████████████░   95.20 % 
-Gemini                   286 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   04.80 % 
+Opus                     3,422 lines         ███████████████████████░░   92.29 % 
+Gemini                   286 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   07.71 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 100.0% of written lines came from AI
-📄 Detailed Prompter — average 660 characters per prompt
-🔁 Iterative Prompter — average 6 prompts per session
-🚀 High AI Trust — 0.0% of changed lines were hand-edited
+🤖 AI-Driven — 98.56% of written lines came from AI
+📄 Detailed Prompter — average 767 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
+🚀 High AI Trust — 1.44% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -96,5 +96,5 @@ HTML                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 22/10/2026 04:10:16 UTC
+ Last Updated on 23/10/2026 04:13:52 UTC
 <!--END_SECTION:waka-->
